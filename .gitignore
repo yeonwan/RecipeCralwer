@@ -1,0 +1,6 @@
+images/
+recipes/
+chromedriver.exe
+*.csv
+chromedriver_win32
+.idea/
