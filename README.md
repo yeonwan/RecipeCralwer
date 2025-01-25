@@ -1,6 +1,6 @@
 # RecipeCrawler
 
-**RecipeCrawler** is a Python-based web scraping project designed to collect recipes from the "Maangchi" recipe website. It includes modules for crawling recipe data, storing the collected information, and editing or processing the data.
+**RecipeCrawler** is a Python-based web scraping project designed to collect recipes from the "10000recipe" recipe website. It includes modules for crawling recipe data, storing the collected information, and editing or processing the data.
 
 ---
 
@@ -12,7 +12,7 @@
 ---
 
 ## Introduction
-**RecipeCrawler** automates the process of extracting recipe data from "Maangchi" and storing it in a structured format for further use. This project is useful for collecting data for recipe analysis, food blogs, or building datasets for cooking-related applications.
+**RecipeCrawler** automates the process of extracting recipe data from "10000recipe" and storing it in a structured format for further use. This project is useful for collecting data for recipe analysis, food blogs, or building datasets for cooking-related applications.
 
 ---
 
@@ -22,7 +22,7 @@
   - Provides functionality to edit or process the JSON data extracted from the recipe website. Useful for cleaning, updating, or reformatting the stored recipes.
 
 - **recipeCrawler.py**
-  - The core web scraping script that extracts recipe data from "Maangchi." This script handles crawling, parsing, and extracting the relevant information from the website's pages.
+  - The core web scraping script that extracts recipe data from "10000recipe." This script handles crawling, parsing, and extracting the relevant information from the website's pages.
 
 - **storeRecipe.py**
   - Manages the storage of crawled recipe data into structured formats, such as JSON or a database. Ensures data integrity and easy retrieval for further processing or analysis.
